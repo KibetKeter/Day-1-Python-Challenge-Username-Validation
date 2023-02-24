@@ -1,4 +1,4 @@
-# Python Challenge Username Validation
+# Python Challenge 1: Username Validation
 
 Have a function that take the str parameter being passed and determine if the string is a valid username according to the following rules:
 
