@@ -1,7 +1,7 @@
-<title>Python-Challenge-Username-Validation<title>
+# Python Challenge Username Validation
 
 Username Validation in Python
-Have the function CodelandUsernameValidation(str) take the str parameter being passed and determine if the string is a valid username according to the following rules:
+Have a function that take the str parameter being passed and determine if the string is a valid username according to the following rules:
 
 1. The username is between 4 and 25 characters.
 2. It must start with a letter.
