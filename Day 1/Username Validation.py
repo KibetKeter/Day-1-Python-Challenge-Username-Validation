@@ -6,7 +6,7 @@ username = input(str)
 
 def usernameFunction(user):
 
-    if (len(user) < 4 or len(user) > 25):
+    if (len(user) < 4 or len(user) >= 25):
         {
             print ("Output: False - Your username is either too short or too long")
         }
